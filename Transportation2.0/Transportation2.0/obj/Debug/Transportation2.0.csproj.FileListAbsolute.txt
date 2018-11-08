@@ -5,3 +5,10 @@ C:\Users\defas\source\repos\Transportation2.0\Transportation2.0\obj\Debug\Transp
 C:\Users\defas\source\repos\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.csproj.CoreCompileInputs.cache
 C:\Users\defas\source\repos\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.exe
 C:\Users\defas\source\repos\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.pdb
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.csprojAssemblyReference.cache
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.csproj.CoreCompileInputs.cache
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.exe
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\obj\Debug\Transportation2.0.pdb
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\bin\Debug\Transportation2.0.exe.config
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\bin\Debug\Transportation2.0.exe
+C:\Users\defas\source\repos\labs-c#-5-sem\Transportation2.0\Transportation2.0\bin\Debug\Transportation2.0.pdb

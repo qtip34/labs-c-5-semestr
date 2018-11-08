@@ -18,7 +18,7 @@ namespace Transportation2._0
         public override void shippingCost()
         {
             //cost = (distance * weight) /efficiency
-            Console.WriteLine("Shipping cost : " + transportype);
+            Console.WriteLine("Shipping cost : " + (transportype.distance/transportype.efficiency));
         }
     }
 }

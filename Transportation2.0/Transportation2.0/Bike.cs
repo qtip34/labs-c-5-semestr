@@ -10,10 +10,10 @@ namespace Transportation2._0
     class Bike : ITransportType
 
     {
-        double distance;
+        public double distance { get; }
 
         public double capacity = 70;
-        //public double distance { get; }
+      
         public double speed { get { return 25; } }
         public double efficiency { get { return 1000; } } // hrn/(kg * km)
 
